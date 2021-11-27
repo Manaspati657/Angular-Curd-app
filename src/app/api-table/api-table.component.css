@@ -1,0 +1,17 @@
+.heading{
+  margin: 10px auto;
+  width: 100px;
+}
+.alertInput{
+  color: red;
+}
+
+
+.star{
+  color:red;
+  font-weight: bolder;
+}
+
+table i{
+   cursor: pointer;
+}
