@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class ApiServiceService {
 
-  url = 'https://159.65.151.134/api/ManufacturerAPI';
+  url = 'https://xyz.com/dempAPI';//use your url here
 
   constructor(private http:HttpClient) { }
 
